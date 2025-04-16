@@ -7,7 +7,7 @@ In [1], the AlexNet, VGG-16, and ResNet-50 models achieved a mean Average Precis
 
 The total loss graph illustrates the model’s performance during training, showing a consistent decrease in loss as the number of iterations increases
 # Total Loss Graph
-![image](https://github.com/user-attachments/assets/b1013bf3-7b12-4b8a-a0cc-b4f802034a19)
+![image](https://github.com/user-attachments/assets/b1013bf3-7b12-4b8a-a0cc-b4f802034a19) 
 # Detection
 ![image](https://github.com/user-attachments/assets/10565279-b2e0-4348-a8cb-b0861ff279fd) ![image](https://github.com/user-attachments/assets/c2916e34-b6ac-4a7d-a3f2-4bcb766ac7b8)
 
