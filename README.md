@@ -19,3 +19,6 @@ The total loss graph illustrates the model’s performance during training, show
 <img src="https://github.com/user-attachments/assets/fee6ac1b-9749-4f5e-bb1e-d12b19615d41" alt="image" width="400"/>
 
 The system integrates Twilio's API to send SMS notifications. Upon detecting wildlife, an automated process triggers an alert message to a designated phone number, ensuring timely user notification
+
+# Research Paper
+You can access the detailed research paper on the system <a href="https://ieeexplore.ieee.org/document/10774639">here<\a>
